@@ -162,5 +162,5 @@ Solution for Smart Alerts
 
 Technical Design for Smart Alerts
 
-image...
+LookAtMe_Prj02_SmartAlerts.png
 
